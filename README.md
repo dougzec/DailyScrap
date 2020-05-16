@@ -3,7 +3,8 @@
 - This app uses Selenium and Google Chrome.
 
 ## dailyscrap.py:
-- Main code
+- Main code.
+- Reads <i>ds_functions.py</i> and <i>ds_personal_functions.py</i> to get the functions and <i>searches.json</i> to get the inputs.
 
 ## ds_functions.py:
 - All the functions provided by us.
