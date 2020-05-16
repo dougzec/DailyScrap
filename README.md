@@ -1,5 +1,6 @@
 # DailyScrap
 - Python script to create daily and customized reports.
+- This app uses Selenium and Google Chrome.
 
 ## dailyscrap.py:
 - Main code
