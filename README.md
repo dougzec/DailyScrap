@@ -1,5 +1,5 @@
 # DailyScrap
-- Python app to create daily and customized reports.
+- Python script to create daily and customized reports.
 
 ## dailyscrap.py:
 - Main code
