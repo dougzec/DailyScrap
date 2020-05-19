@@ -2,6 +2,12 @@
 - Python script to create daily and customized reports.
 - This app uses Selenium and Google Chrome.
 
+# Functions implemented
+- Amazon product prices (list of URLs)
+- Investing.com currencies to BRL (list of currencies)
+- Investing.com stocks to BRL (list of stocks)
+- Climatempo weather (list cities in the format 'city_number/city_name' as in the city's page URL)
+
 ## dailyscrap.py:
 - Main code.
 - Reads <i>ds_functions.py</i> and <i>ds_personal_functions.py</i> to get the functions and <i>searches.json</i> to get the inputs.
