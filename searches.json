@@ -1,2 +1,5 @@
-{"amazon" : ["https://www.amazon.com.br/gp/product/0262035618",
-              "https://www.amazon.com.br/gp/product/B003JMUH8Q"]}
+{"amazon" : ["https://www.amazon.com.br/gp/product/0553418831",
+              "https://www.amazon.com.br/gp/product/8576089726"],
+"investing_currency" : ["usd", "eur"],
+"investing_stocks" : ["ITUB3", "PETR4", "BVSP"],
+"climatempo" : ["Porto Alegre", "Berlin"]}
